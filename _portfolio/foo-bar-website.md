@@ -1,6 +1,6 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Diary Study: Tech in Everyday Life"
+excerpt: "Participant communication, data preparation, qualitative analysis, and report presentation."
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
