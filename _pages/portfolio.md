@@ -7,6 +7,6 @@ entries_layout: grid
 author_profile: false
 classes: wide
 sidebar:
-  - title: "Education"
-    text: "M.S. Psychology - Human Factors Program, University of Houston - Clear Lake, 01/2021 – 05/2023"
+  - title: "Bio"
+    text: "Creative and analytical problem-solver with 6+ years of applied user research experience. Worked with brands such as Dell, HP, and Dolby Labs. M.S. Human Factors Psychology, University of Houston - Clear Lake, May 2023."
 ---
