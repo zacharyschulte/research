@@ -2,7 +2,7 @@
 title: "Inherent Value Test: Aligning Departments to Increase Conversions"
 excerpt: "Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus."
 header:
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/inherent.png
 sidebar:
   - title: "Challenge"
     image: http://placehold.it/350x250
