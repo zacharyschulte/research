@@ -20,9 +20,6 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"
 ---
 
 ## One
