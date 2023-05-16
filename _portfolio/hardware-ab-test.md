@@ -2,7 +2,7 @@
 title: "Hardware A/B Test: Audio and Video Enhancements"
 excerpt: "Evaluate user perceptions of audio and video quality between enhanced and non-enhanced experiences in order to determine the value of client services."
 header:
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/hardware.png
 sidebar:
   - title: "Challenge"
     image: http://placehold.it/350x250
