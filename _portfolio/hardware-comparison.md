@@ -1,5 +1,5 @@
 ---
-title: "Hardware A/B Test: Audio and Video Enhancements"
+title: "Hardware Comparison Test: Audio and Video Enhancements"
 excerpt: "Evaluate user perceptions of audio and video quality between enhanced and non-enhanced experiences in order to determine the value of client services."
 header:
   teaser: /assets/images/hardware.png
