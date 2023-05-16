@@ -2,7 +2,7 @@
 title: "Diary Study: Tech in Everyday Life"
 excerpt: "Participant communication, data preparation, qualitative analysis, and report presentation."
 header:
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/diary.png
 sidebar:
   - title: "Challenge"
     image: http://placehold.it/350x250
