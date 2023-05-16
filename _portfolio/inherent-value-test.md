@@ -1,6 +1,6 @@
 ---
 title: "Inherent Value Test: Aligning Departments to Increase Conversions"
-excerpt: "Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus."
+excerpt: "Compare how long-time users use a product to how potential customers perceive it."
 header:
   teaser: /assets/images/inherent.png
 sidebar:
