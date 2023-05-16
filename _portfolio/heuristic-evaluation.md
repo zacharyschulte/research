@@ -2,7 +2,7 @@
 title: "Heuristic Evaluation: Energy Monitoring Dashboard Interface"
 excerpt: "Heuristic evaluation and prototype validation of a B2C energy monitoring and e-commerce mobile application."
 header:
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/energy.png
 sidebar:
   - title: "Challenge"
     image: http://placehold.it/350x250
