@@ -2,7 +2,6 @@
 title: "Heuristic Evaluation: Energy Monitoring Dashboard Interface"
 excerpt: "Heuristic evaluation and prototype validation of a B2C energy monitoring and e-commerce mobile application."
 header:
-  image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
