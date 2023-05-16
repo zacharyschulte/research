@@ -16,39 +16,33 @@ sidebar:
     text: "Nullam vehicula ipsum a arcu cursus vitae congue."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_path: http://placehold.it/350x250
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    image_path: http://placehold.it/350x250
     alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    image_path: http://placehold.it/350x250
     alt: "placeholder image 3"
 ---
 
-## Overview
-Provide some context and background information about the project, such as the client, the goal, the timeline, the team, and your role.
+## Background
+This was a diary study commissioned by a laptop manufacturer client to explore how people use technology in their everyday lives. The study was conducted over a period of time, with 49 participants from six different user personas recruited and managed through the Indeemo platform. My role in this project was mainly focused on participant communication, data preparation, and qualitative analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium aenean pharetra magna ac placerat vestibulum. Eget mi proin sed libero enim sed faucibus turpis. Venenatis cras sed felis eget velit aliquet. At auctor urna nunc id cursus. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed. Ipsum faucibus vitae aliquet nec ullamcorper sit amet. Euismod in pellentesque massa placerat duis ultricies lacus sed. Volutpat blandit aliquam etiam erat. Nec dui nunc mattis enim ut tellus. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Augue neque gravida in fermentum. Consequat semper viverra nam libero justo laoreet. Justo laoreet sit amet cursus sit amet dictum sit.
+## Process
+The study had an exploratory nature, meaning that the participants were not given specific tasks or scenarios, but rather asked open-ended questions about their technology habits and preferences. My work mainly involved emailing participants regularly to remind them to complete their daily entries, and answering any questions they had about the study. I also exported the data from Indeemo, which included text, audio, video, and image responses from the participants. I cleaned and organized the data for analysis using Visual Studio Code, Python, and Regex, and wrote some scripts to automate some of the repetitive tasks. 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-## Process
-Explain the research methods you used and why you chose them. Show your research plan, data collection, analysis, and synthesis. Use visual elements such as screenshots, photos, diagrams, charts, and quotes to illustrate your work.
-
-Quis lectus nulla at volutpat diam. Fringilla ut morbi tincidunt augue interdum velit euismod. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus. Faucibus pulvinar elementum integer enim neque volutpat ac. Tristique nulla aliquet enim tortor at auctor urna. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Enim facilisis gravida neque convallis a cras. Condimentum lacinia quis vel eros. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Vulputate dignissim suspendisse in est ante in nibh mauris cursus. Proin fermentum leo vel orci porta non pulvinar neque.
+For the qualitative analysis, I developed a unique process for conducting thematic coding and content analysis of the data, using a combination of manual and automated methods. I used tools such as Excel to code the responses based on themes and categories that emerged from the data. I also used some natural language processing techniques such as topic modeling and summarization algorithms, though I found that these techniques were not very effective for this type of data.
 
 ## Insights
-Highlight the key findings and insights from your research. Explain how they informed the design decisions and solutions. Show how you communicated and presented your insights to stakeholders and designers.
+The key findings from the diary study were that technology use varies across different user personas and contexts. We also found that Indeemo had an unintuitive interface and limited functionality for diary studies, which led to some difficulties for the participants. We highlighted these issues and suggested ways to improve the user experience. We also recommended that regular communication with the participants should be maintained, and clear instructions and expectations should be provided to motivate them and ensure high-quality data.
 
-Arcu odio ut sem nulla pharetra diam sit. Interdum posuere lorem ipsum dolor sit. Quam vulputate dignissim suspendisse in est ante in nibh. Dui accumsan sit amet nulla facilisi. Tempus iaculis urna id volutpat. Nisl purus in mollis nunc sed id semper risus in. Tortor dignissim convallis aenean et tortor at risus viverra. In tellus integer feugiat scelerisque varius. Et magnis dis parturient montes nascetur ridiculus mus mauris. Tempor orci dapibus ultrices in iaculis nunc. Tellus integer feugiat scelerisque varius. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Eu scelerisque felis imperdiet proin.
+I presented our findings to stakeholders and designers in the form of a "pseudo-report" that summarized the main takeaways of the study. I had to balance between providing enough detail and specificity to support the findings, but not too much that would overwhelm or bore the client. I also had to avoid making generalizations or assumptions based on the data, but rather highlight novel situations or examples that illustrated the findings.
 
 ## Impact
-Describe the outcomes and results of your research. How did it help achieve the project goal? How did it benefit the users and the business? Provide any metrics or feedback that show the impact of your research.
-
-Diam in arcu cursus euismod quis viverra nibh. Dolor sit amet consectetur adipiscing. Ac turpis egestas maecenas pharetra convallis posuere. Ornare aenean euismod elementum nisi quis eleifend quam. Libero enim sed faucibus turpis in eu. Turpis massa tincidunt dui ut ornare lectus. Gravida in fermentum et sollicitudin ac. Platea dictumst vestibulum rhoncus est pellentesque elit. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Scelerisque eleifend donec pretium vulputate sapien. Auctor augue mauris augue neque gravida in fermentum et. Sapien et ligula ullamcorper malesuada proin libero nunc. Vel orci porta non pulvinar neque laoreet suspendisse interdum. Pellentesque elit eget gravida cum sociis natoque. Aenean pharetra magna ac placerat vestibulum.
+The insights from the diary study were used to inform the design decisions and solutions for the client. They received positive feedback from users and the business, and their product development and design decisions were improved as a result.
 
 ## Reflection
-Share what you learned from the project. What were the challenges and how did you overcome them? What were the successes and what are you proud of? What would you do differently next time?
-
-Neque viverra justo nec ultrices dui sapien eget mi. Consectetur adipiscing elit duis tristique sollicitudin. Molestie nunc non blandit massa. Phasellus egestas tellus rutrum tellus pellentesque eu. Sed nisi lacus sed viverra tellus in hac habitasse platea. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Turpis egestas integer eget aliquet nibh. Magna fermentum iaculis eu non diam. Maecenas volutpat blandit aliquam etiam erat. Aliquam malesuada bibendum arcu vitae elementum curabitur. Ornare suspendisse sed nisi lacus sed viverra. Enim lobortis scelerisque fermentum dui faucibus. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis. Eu volutpat odio facilisis mauris sit amet massa vitae. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet.
+This project was a valuable learning experience for me, as I got to apply and improve my skills in diary study design, participant communication, data preparation, qualitative analysis, and report writing. I also learned a lot about how people use technology in their everyday lives. I think that the project provided useful insights and recommendations for our client, and that it had a positive impact on their product development and design decisions.
