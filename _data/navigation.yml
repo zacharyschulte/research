@@ -1,5 +1,5 @@
 main:
   - title: "Case Studies"
     url: /portfolio/
-  - title: "About"
-    url: /about/
+#   - title: "About"
+#     url: /about/
