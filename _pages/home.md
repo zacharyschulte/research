@@ -1,5 +1,5 @@
 ---
-title: "UX Research Case Studies"
+title: "Welcome!"
 layout: splash
 permalink: /
 header:
