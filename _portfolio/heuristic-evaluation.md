@@ -16,39 +16,31 @@ sidebar:
     text: "Nullam vehicula ipsum a arcu cursus vitae congue."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_path: http://placehold.it/350x250
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    image_path: http://placehold.it/350x250
     alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    image_path: http://placehold.it/350x250
     alt: "placeholder image 3"
 ---
 
 ## Background
-Provide some context and background information about the project, such as the client, the goal, the timeline, the team, and your role.
+In January 2023, I led a heuristic evaluation project as part of my role at End to End. The goal was to identify usability issues and provide recommendations for improvement for a B2C energy company's mobile service. The service was designed to offer customers a convenient way to monitor their energy consumption and switch to different plans based on their needs and preferences.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium aenean pharetra magna ac placerat vestibulum. Eget mi proin sed libero enim sed faucibus turpis. Venenatis cras sed felis eget velit aliquet. At auctor urna nunc id cursus. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed. Ipsum faucibus vitae aliquet nec ullamcorper sit amet. Euismod in pellentesque massa placerat duis ultricies lacus sed. Volutpat blandit aliquam etiam erat. Nec dui nunc mattis enim ut tellus. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Augue neque gravida in fermentum. Consequat semper viverra nam libero justo laoreet. Justo laoreet sit amet cursus sit amet dictum sit.
+I used Nielsen's 10 heuristics as a guideline, but I also added some additional criteria based on a mobile heuristic checklist I created in practicum during Summer 2022. I conducted the evaluation by myself, using a smartphone and a laptop to access the service and take notes.
 
 ## Process
-Explain the research methods you used and why you chose them. Show your research plan, data collection, analysis, and synthesis. Use visual elements such as screenshots, photos, diagrams, charts, and quotes to illustrate your work.
+To conduct the heuristic evaluation, I first familiarized myself with the service and the design elements. I then applied Nielsen's 10 heuristics to evaluate the interface and functionality of the service. I used a smartphone and a laptop to access the service and take notes. After the evaluation, I categorized and prioritized the issues based on their severity and frequency.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-Quis lectus nulla at volutpat diam. Fringilla ut morbi tincidunt augue interdum velit euismod. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus. Faucibus pulvinar elementum integer enim neque volutpat ac. Tristique nulla aliquet enim tortor at auctor urna. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Enim facilisis gravida neque convallis a cras. Condimentum lacinia quis vel eros. Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Vulputate dignissim suspendisse in est ante in nibh mauris cursus. Proin fermentum leo vel orci porta non pulvinar neque.
+I also customized the existing report template to make it more concise and relevant. I removed unnecessary sections or combined similar ones. I also added some visual elements such as screenshots, diagrams, and charts to make it more appealing and easy to understand.
 
 ## Insights
-Highlight the key findings and insights from your research. Explain how they informed the design decisions and solutions. Show how you communicated and presented your insights to stakeholders and designers.
-
-Arcu odio ut sem nulla pharetra diam sit. Interdum posuere lorem ipsum dolor sit. Quam vulputate dignissim suspendisse in est ante in nibh. Dui accumsan sit amet nulla facilisi. Tempus iaculis urna id volutpat. Nisl purus in mollis nunc sed id semper risus in. Tortor dignissim convallis aenean et tortor at risus viverra. In tellus integer feugiat scelerisque varius. Et magnis dis parturient montes nascetur ridiculus mus mauris. Tempor orci dapibus ultrices in iaculis nunc. Tellus integer feugiat scelerisque varius. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Eu scelerisque felis imperdiet proin.
+I found more than 100 issues and suggestions for improvement. Some of them were minor, such as typos or inconsistent icons, but others were more serious, such as confusing navigation or lack of feedback. To communicate my findings and recommendations to the client, I applied the Pyramid Principle, which is a communication technique that allows you to structure your points and arguments properly. It starts with asking for what you want, and explaining why you want it.
 
 ## Impact
-Describe the outcomes and results of your research. How did it help achieve the project goal? How did it benefit the users and the business? Provide any metrics or feedback that show the impact of your research.
-
-Diam in arcu cursus euismod quis viverra nibh. Dolor sit amet consectetur adipiscing. Ac turpis egestas maecenas pharetra convallis posuere. Ornare aenean euismod elementum nisi quis eleifend quam. Libero enim sed faucibus turpis in eu. Turpis massa tincidunt dui ut ornare lectus. Gravida in fermentum et sollicitudin ac. Platea dictumst vestibulum rhoncus est pellentesque elit. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Scelerisque eleifend donec pretium vulputate sapien. Auctor augue mauris augue neque gravida in fermentum et. Sapien et ligula ullamcorper malesuada proin libero nunc. Vel orci porta non pulvinar neque laoreet suspendisse interdum. Pellentesque elit eget gravida cum sociis natoque. Aenean pharetra magna ac placerat vestibulum.
+The client appreciated my report and presentation skills. They agreed with most of my recommendations and expressed their interest in implementing them. The project was successful, as it resulted in improved user satisfaction, retention, and conversion rates.
 
 ## Reflection
-Share what you learned from the project. What were the challenges and how did you overcome them? What were the successes and what are you proud of? What would you do differently next time?
-
-Neque viverra justo nec ultrices dui sapien eget mi. Consectetur adipiscing elit duis tristique sollicitudin. Molestie nunc non blandit massa. Phasellus egestas tellus rutrum tellus pellentesque eu. Sed nisi lacus sed viverra tellus in hac habitasse platea. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Turpis egestas integer eget aliquet nibh. Magna fermentum iaculis eu non diam. Maecenas volutpat blandit aliquam etiam erat. Aliquam malesuada bibendum arcu vitae elementum curabitur. Ornare suspendisse sed nisi lacus sed viverra. Enim lobortis scelerisque fermentum dui faucibus. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis. Eu volutpat odio facilisis mauris sit amet massa vitae. Ullamcorper malesuada proin libero nunc consequat interdum varius sit amet.
+One of the main challenges that I faced in this project was communication with the client. To overcome this challenge, I used the Pyramid Principle to structure my points and arguments, which improved the clarity and impact of my communication. I also learned a lot about report writing and formatting, as I had to customize the existing template to make it more concise and relevant. Overall, I am proud of the outcome of this project and the impact it had on the client's business.
