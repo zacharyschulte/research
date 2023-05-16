@@ -4,9 +4,9 @@ excerpt: "Participant communication, data preparation, qualitative analysis, and
 header:
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
+  - title: "Challenge"
     image: http://placehold.it/350x250
     image_alt: "logo"
-  - title: "Challenge"
     text: "Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi."
   - title: "Role"
     text: "Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus."
