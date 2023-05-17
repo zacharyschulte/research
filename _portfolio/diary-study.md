@@ -1,19 +1,19 @@
 ---
 title: "Diary Study: Tech in Everyday Life"
-excerpt: "Participant communication, data preparation, qualitative analysis, and report presentation."
+excerpt: "Deliver actionable recommendations based on how people use technology in their everyday lives."
 header:
   teaser: /assets/images/diary.png
 sidebar:
   - title: "Challenge"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi."
+    text: "Deliver actionable recommendations based on how people use technology in their everyday lives."
   - title: "Role"
-    text: "Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus."
+    text: "Lead research assistant on a four-person team at End to End User Research."
   - title: "Methods"
-    text: "Sed risus ultricies tristique nulla aliquet."
+    text: "Content analysis, thematic coding, pattern mining."
   - title: "Outcomes"
-    text: "Nullam vehicula ipsum a arcu cursus vitae congue."
+    text: "Client wants a follow-up study because our research influenced their product strategy."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: http://placehold.it/350x250
@@ -27,22 +27,30 @@ gallery:
 ---
 
 ## Background
-This was a diary study commissioned by a laptop manufacturer client to explore how people use technology in their everyday lives. The study was conducted over a period of time, with 49 participants from six different user personas recruited and managed through the Indeemo platform. My role in this project was mainly focused on participant communication, data preparation, and qualitative analysis.
+A laptop manufacturer wanted our team to conduct a diary study that investigated people's use of technology in their daily lives. They wanted to understand the role of laptops in users' routines and discover opportunities to fulfill their needs and preferences. They had identified 6 user personas based on previous market research, and they asked us to recruit 10 participants for each persona. We had several months to collect data, analyze it, and present our findings. As lead research assistant, I ensured effective communication with participants, prepared data, and implemented a novel qualitative analysis process. I delivered our key recommendations directly to the client.
 
 ## Process
-The study had an exploratory nature, meaning that the participants were not given specific tasks or scenarios, but rather asked open-ended questions about their technology habits and preferences. My work mainly involved emailing participants regularly to remind them to complete their daily entries, and answering any questions they had about the study. I also exported the data from Indeemo, which included text, audio, video, and image responses from the participants. I cleaned and organized the data for analysis using Visual Studio Code, Python, and Regex, and wrote some scripts to automate some of the repetitive tasks. 
+Since this study was exploratory in nature, the participants were not given specific scenarios, but rather asked 27 open-ended questions about their technology habits and preferences. The participants used a diary study app, Indeemo, to share videos and images of their technology use for four weeks. We divided the participants into three phases, so that each group started and ended at different times.
+
+My role in the early stage of the project was to communicate with the participants regularly. The participants varied a lot in their demographics, tech usage, and personality. Some were more engaged and expressive, while others were reluctant and brief. I checked on their progress and provided them with reminders, feedback, and encouragement to keep them engaged and motivated. I also assisted them with Indeemo-related issues.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-For the qualitative analysis, I developed a unique process for conducting thematic coding and content analysis of the data, using a combination of manual and automated methods. I used tools such as Excel to code the responses based on themes and categories that emerged from the data. I also used some natural language processing techniques such as topic modeling and summarization algorithms, though I found that these techniques were not very effective for this type of data.
+The diary study lasted for three months and gave me more than 1900 entries to examine. I realized that I needed a novel process to make sense of all the data, and to find the key themes and patterns that would provide valuable insight for our client. I started by exporting the data from Indeemo, which had text, audio, video, and image responses from the participants. I used Visual Studio Code, Python, and Regex to clean and organize the data for analysis, and wrote some scripts to automate some of the tedious tasks.
+
+For the qualitative analysis, I created a unique process for doing thematic coding and content analysis of the data, using a mix of manual and automated methods. I wanted to know the overall themes from the participant responses. I used some natural language processing techniques such as topic modeling and summarization algorithms on the participant video transcripts. This showed me some interesting insights about how the personas were similar and different, but these techniques were not very useful for this type of data. 
+
+Instead, I applied traditional qualitative methods of content analysis and thematic coding. I used tools like Excel to code the responses based on themes and categories that came from the data. I also taught the analysis process to two other people who helped me analyze the responses. I emphasized the difference between findings and takeaways: findings are descriptions of the important themes, unique observations, and behavioral/attitudinal patterns based on what we learned from participants’ responses, and takeaways are practical suggestions based on the findings that help our client improve their products based on what their customers or potential customers want.
 
 ## Insights
-The key findings from the diary study were that technology use varies across different user personas and contexts. We also found that Indeemo had an unintuitive interface and limited functionality for diary studies, which led to some difficulties for the participants. We highlighted these issues and suggested ways to improve the user experience. We also recommended that regular communication with the participants should be maintained, and clear instructions and expectations should be provided to motivate them and ensure high-quality data.
+Our client had very specific needs for the analysis: they wanted us to identify trends, but not to be too general in our summaries. They also wanted us to point out any unique findings and include as much context about the participants as possible. To do this, I trained our team to analyze the responses by participant persona instead of task. This allowed us to better meet the client's needs and provide more detailed summaries. We were able to identify trends and unique findings specific to each persona. I shared these user persona documents in one-on-one meetings with the client, telling the story of how each persona used technology in their lives.
 
-I presented our findings to stakeholders and designers in the form of a "pseudo-report" that summarized the main takeaways of the study. I had to balance between providing enough detail and specificity to support the findings, but not too much that would overwhelm or bore the client. I also had to avoid making generalizations or assumptions based on the data, but rather highlight novel situations or examples that illustrated the findings.
+After several rounds of analysis, I identified the main themes and patterns that emerged from the data. I worked with our client to understand their needs and the kinds of insights they were looking for. To provide an effective overview of the most interesting themes, I applied a technique called pattern mining. This allowed us to quickly identify the key trends and patterns, then organize them into categories. We used these categories to provide a comprehensive overview to our client, including key findings, trends, and recommendations from the diary study.
 
 ## Impact
-The insights from the diary study were used to inform the design decisions and solutions for the client. They received positive feedback from users and the business, and their product development and design decisions were improved as a result.
+Our results delighted the client. They felt that the persona analysis documents helped them empathize with the participants. They liked how I collaborated with them on interpreting the data. The insights we provided were useful and relevant to the client's product strategy. The client applied our findings to their product roadmap and design decisions, and requested a follow-up study.
 
 ## Reflection
-This project was a valuable learning experience for me, as I got to apply and improve my skills in diary study design, participant communication, data preparation, qualitative analysis, and report writing. I also learned a lot about how people use technology in their everyday lives. I think that the project provided useful insights and recommendations for our client, and that it had a positive impact on their product development and design decisions.
+This project was a great learning experience. I had to be very organized and creative in designing the analysis process, and I had to stay focused and on top of the data at all times. I was also able to practice my presentation and communication skills by presenting our findings directly to the client. The project was also satisfying because we were able to make an impact on the client's business. I was proud to be part of such an impactful project, and I believe it has prepared me to take on similar challenges in the future.
+
+If I had less time, I would have to prioritize the most important tasks and streamline the analysis process. I would focus on the key insights that the client needs, rather than trying to analyze all the data. Additionally, I would work closely with the client to set expectations and deadlines, so that we could ensure that the most important tasks are completed.
