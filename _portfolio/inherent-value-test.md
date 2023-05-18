@@ -1,6 +1,6 @@
 ---
 title: "Inherent Value Test: Aligning Departments to Increase Conversions"
-excerpt: "Compare how long-time users use a product to how potential customers perceive it."
+excerpt: "Align cross-functional teams with the voice of the user by comparing how long-time users use a product to how potential customers perceive it."
 header:
   teaser: /assets/images/inherent.png
 sidebar:
