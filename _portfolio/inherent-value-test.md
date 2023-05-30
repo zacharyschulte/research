@@ -1,19 +1,19 @@
 ---
-title: "Inherent Value Test: Aligning Departments to Increase Conversions"
-excerpt: "Align cross-functional teams with the voice of the user by comparing how long-time users use a product to how potential customers perceive it."
+title: "Inherent Value Test: Communicating Product Value"
+excerpt: "Increase conversions by aligning cross-functional teams with the voice of the customer."
 header:
   teaser: /assets/images/inherent.png
 sidebar:
   - title: "Challenge"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi."
+    text: "Increase conversions by aligning product strategies with the voice of the customer."
   - title: "Role"
-    text: "Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus."
+    text: "User research coordinator under a usability lead at a B2B marketing SaaS company."
   - title: "Methods"
-    text: "Sed risus ultricies tristique nulla aliquet."
+    text: "User segmentation tools, rapid recruitment campaigns, contextual inquiry, scenario-based testing, think-aloud protocol, behavior count matrix, open-ended surveys, remote test moderation, cross-functional team collaboration"
   - title: "Outcomes"
-    text: "Nullam vehicula ipsum a arcu cursus vitae congue."
+    text: "The entire company swiftly incorporated our recommendations, increasing trial-to-paid conversion by 9.6%."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: http://placehold.it/350x250
@@ -27,20 +27,28 @@ gallery:
 ---
 
 ## Background
-Our team had a problem: We weren’t sure if our new leads were understanding what long-time users liked most about our service. We were seeing confused customers, which often led to churn. In order to reduce churn, we wanted to align our company’s messaging and product priorities with the voice of the customer. 
+Our team encountered a persistent problem: our new customers, the lifeblood of our business growth, were struggling to comprehend the value of our service. This issue had been highlighted by numerous instances of customer churn feedback detailing their confusion about the benefits of the product. As a company, we knew we needed to address this.
 
-To do this, we used user segmentation tools within Intercom to create two segments of users: one of long-time users and one of potential leads. We then used an Inherent Value Test, a simple usability testing technique that measures how a site communicates its product’s inherent value. We held contextual inquiry observational research sessions with our long-time users and had potential leads walk us through our marketing landing page.
+The usability team's objective was to increase trial-to-paid conversions by realigning our company's messaging and product priorities with the voice of the customer. To accomplish this, the usability lead and I decided to introduce an Inherent Value Test: a testing method that measures how well a website or app communicates the value of a product or service to potential customers. We had a strict deadline of two weeks to devise the test plan, execute the study, and present our findings to the whole company.
 
 ## Process
-We used a behavior count matrix to track patterns of use among the long-time users. We then added all relevant feedback to our Product Feedback Database and created a presentation with our recommendations.
+To begin, we quickly identified longtime users and potentially interested customers using user segmentation tools within Intercom. We crafted eye-catching emails and in-app messages for recruitment, offering Amazon gift cards as a small thank you for their half-hour involvement. We organized remote sessions and conducted a total of 12 interviews, including both long-term users and potential customers.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Our approach to the Inherent Value Test was two-fold. For our long-time users, we conducted contextual inquiry sessions, allowing them to guide us through their "best practices" for using our app while discussing their favorite features. Simultaneously, we recorded their behavior using a behavior count matrix to track use patterns.
+
+For the potential customers, we developed a scenario-based test with a think-aloud protocol. We asked the leads to navigate our marketing landing page and articulate what they perceived as the product's most valuable features. We captured their feedback using an open-ended survey and used thematic coding to decipher the comments made during both sessions.
+
+In order to make the best use of our time, the usability lead and I moderated our sessions concurrently. While the usability lead ran the sessions with our current customers, I moderated the leads' think-aloud sessions. While it would have been preferable to swap responsibilities in order to ensure the results were unbiased and comprehensive, we knew our time was limited and that such an approach was necessary. We also invited members from our product, marketing, and support teams to observe sessions and take notes, creating an environment of collaboration and making sure everyone felt responsible for our collective success.
 
 ## Insights
-We discovered gaps in our messaging where features that long-time users favored were not communicated to potential customers. We also uncovered patterns that may have led leads to abandon their cart. We had clear insight about what features users found valuable and were able to communicate this to our marketing and product teams.
+The insights we gained were invaluable. The usability lead and I told a compelling story to the entire company, highlighting how potential customers were often unclear about the value proposition of our product. We detailed the gaps in our product messaging, which left out features that our long-time users valued, such as the "category" feature for content organization. We also pointed out customer sentiment toward the pricing and subscription model, along with suggestions for improvement. Finally, we illuminated potential opportunities, like developing new pricing models with bundled features, that could create greater value for customers.
 
 ## Impact
-After implementing our recommendations, we saw an uptick in conversions. Our research had successfully aligned the goals of our company with the voice of the customer.
+In light of these findings, the whole company acted quickly to realign our strategies, directly addressing the pain points highlighted by the voice of the customer. Our marketing team adjusted landing pages and promotional emails to better articulate the product's value. Meanwhile, the product team used the identified customer needs to shape our product roadmap and future initiatives. The support team also played a significant role, developing improved onboarding materials to help customers get the most from our service. For the usability team, we fostered meaningful relationships with long-standing users, conducting interviews to craft customer-facing success stories and case studies with "best practices" for our product. This approach allowed us to illustrate our product's value proposition through tangible customer experiences. The company also implemented new pricing models with bundled features, along with discounts for loyal customers.
+
+Altogether, our research grounded our departmental decisions in customer insights and empowered the whole company to act on the findings. After the implementation of our suggestions, we saw new trial satisfaction improve by nearly 20%, and the trial-to-paid conversion rate increase by 9.6%. These metrics were measured with Intercom's Conversation Reports and industry-standard data analytics tools such as Stripe and ProfitWell. 
 
 ## Reflection
-This project was a great example of how research can be used to understand customer needs and inform design decisions. We had to be creative in our methods and use multiple techniques to uncover the information we needed. We also had to take care to ensure our findings were presented in a way that was both informative and engaging. Overall, we are proud of the impact our research had on the project and the business.
+The Inherent Value Test was proof that comprehensive, data-driven research based on the voice of the customer can make a big impact on our business and make sure that we are aligned with our target audiences. We delivered solid results within a narrow time window and prompted substantial changes, thus improving our bottom line. Additionally, by incorporating stakeholders from all departments, we inspired a culture of collaboration that became instrumental in fostering organizational buy-in for future research.
+
+The speed at which we executed this study was admirable but posed a challenge for us: while the results were valuable, the short timeframe limited our ability to run more exhaustive tests, such as A/B testing on different landing pages or using product reaction cards to measure customer emotions about specific features. Even with a limited timeframe and resources, our team showed that it's possible to effectively measure the voice of the customer and make real-time changes based on their feedback. We came to understand how essential user research is for our product development — not only is it productive and time-efficient, but it also helps build empathy for our customers, and shows our commitment to innovation and providing the best user experience possible.
