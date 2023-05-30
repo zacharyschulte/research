@@ -55,7 +55,7 @@ This project was a rewarding yet challenging experience that strengthened my con
 
 The challenge of sifting through and making sense of more than 1900 entries pushed me to devise a novel approach for qualitative analysis. It taught me that there is no 'one-size-fits-all' method for data analysis. Each research project may require different techniques or combinations of them, and as a research expert, it's essential to stay flexible and innovative in my approach.
 
-Being responsive to the specific needs of our client was a key factor in the project's success. By matching our approach with their expectations, we delivered insights that had a concrete impact on their product plan and design choices.
+Being responsive to the specific needs of our client was a key factor in the project's success. By matching my approach with their expectations, I delivered insights that had a concrete impact on their product plan and design choices.
 
 The level of participant engagement varied significantly in this study. This challenge reaffirmed the importance of the researcher's role in facilitating the participant experience and ensuring they feel valued throughout the process. My experience of encouraging, supporting, and motivating participants reminded me of the importance of empathy in user research. It's not just about numbers: every data point reflects a human experience. I am grateful for the opportunity to connect deeply with the participants' stories and translate them into actionable insights for our client.
 
