@@ -11,9 +11,9 @@ sidebar:
   - title: "Role"
     text: "User research coordinator under a usability lead at a B2B marketing SaaS company."
   - title: "Methods"
-    text: "User segmentation tools, rapid recruitment campaigns, contextual inquiry, scenario-based testing, think-aloud protocol, behavior count matrix, open-ended surveys, remote test moderation, cross-functional team collaboration"
+    text: "Rapid recruitment, remote test moderation, contextual inquiry, scenario-based testing, think-aloud protocol, cross-functional team collaboration"
   - title: "Outcomes"
-    text: "The entire company swiftly incorporated our recommendations, increasing trial-to-paid conversion by 9.6%."
+    text: "The company swiftly incorporated our recommendations, increasing trial-to-paid conversion by 9.6%."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: http://placehold.it/350x250
