@@ -38,28 +38,7 @@ My role in the early stage of the project was to communicate with the participan
 
 The diary study lasted for three months and gave me more than 1900 entries to examine. I realized that I needed a novel process to make sense of all the data, and to find the key themes and patterns that would provide valuable insight for our client. I started by exporting the data from Indeemo, which had text, audio, video, and image responses from the participants. I used Visual Studio Code, Python, and Regex to clean and organize the data for analysis, and wrote some scripts to automate some of the tedious tasks.
 
-For the qualitative analysis, I created a unique process for doing thematic coding and content analysis of the data, using a mix of manual and automated methods. I wanted to know the overall themes from the participant responses. I used some natural language processing techniques such as topic modeling and summarization algorithms on the participant video transcripts. This showed me some interesting insights about how the personas were similar and different, but these techniques were not very useful for this type of data. 
-
-```html
-<div class="mermaid">
-flowchart TB
-A[Raw Data from Indeemo] --> B{Data Cleaning}
-
-B -->|Python and Regex| C[Organized Data]
-B -->|Visual Studio Code| C
-
-C --> D{Qualitative Analysis}
-
-D -->|NLP Techniques| E[Initial Insights]
-D -->|Thematic Coding and Content Analysis in Excel| F[Refined Insights]
-
-E -->|Unsuitable for Data| D
-F --> G{Key Themes and Patterns}
-
-G --> H[Final Analysis and Recommendations]
-</div>
-```
-
+For the qualitative analysis, I created a unique process for doing thematic coding and content analysis of the data, using a mix of manual and automated methods. I wanted to know the overall themes from the participant responses. I used some natural language processing techniques such as topic modeling and summarization algorithms on the participant video transcripts. This showed me some interesting insights about how the personas were similar and different, but these techniques were not very useful for this type of data.
 
 Instead, I applied traditional qualitative methods of content analysis and thematic coding. I used tools like Excel to code the responses based on themes and categories that came from the data. I also taught the analysis process to two other people who helped me analyze the responses. I emphasized the difference between findings and takeaways: findings are descriptions of the important themes, unique observations, and behavioral/attitudinal patterns based on what we learned from participants’ responses, and takeaways are practical suggestions based on the findings that help our client improve their products based on what their customers or potential customers want.
 
