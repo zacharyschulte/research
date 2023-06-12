@@ -5,8 +5,8 @@ header:
   teaser: /assets/images/energy.png
 sidebar:
   - title: "Challenge"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    image: /assets/images/energy.png
+    image_alt: "Heuristic Evaluation"
     text: "Elevate the usability of a web application with rapid interface analysis and delivery of effective solutions."
   - title: "Role"
     text: "Sole researcher at End to End User Research."
