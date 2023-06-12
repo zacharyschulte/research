@@ -56,7 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - html-pipeline
+  - jekyll-mermaid-diagrams
 
 author:
   name   : "Zachary Schulte"
