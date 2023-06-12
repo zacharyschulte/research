@@ -15,32 +15,12 @@ sidebar:
     text: "Content analysis, thematic coding, pattern mining."
   - title: "Outcomes"
     text: "Client wants a follow-up study because our research influenced their product strategy."
-gallery:
-  - url: /assets/images/diarystudy_1.png
-    image_path: /assets/images/diarystudy_1.png
-    alt: "Content Analysis"
-  - url: /assets/images/diarystudy_2.jpg
-    image_path: /assets/images/diarystudy_2.jpg
-    alt: "Key Themes and Recommendations"
 ---
 
 ## Background
 A laptop manufacturer wanted our team to conduct a diary study that investigated people's use of technology in their daily lives. They wanted to understand the role of laptops in users' routines and discover opportunities to fulfill their needs and preferences. They had identified 6 user personas based on previous market research, and they asked us to recruit 10 participants for each persona. We had several months to collect data, analyze it, and present our findings. As lead research assistant, I ensured effective communication with participants, prepared data, and implemented a novel qualitative analysis process. I delivered our key recommendations directly to the client.
 
-<div class="mermaid">
-gantt
-    title Data Collection Timeline
-    dateFormat  YYYY-MM-DD
-    section Group 1
-    Recruitment     :a1, 2022-11-11, 7d
-    Data Collection :after a1, 30d
-    section Group 2
-    Recruitment     :a2, 2022-11-28, 7d
-    Data Collection :after a2, 30d
-    section Group 3
-    Recruitment     :a3, 2023-01-11, 7d
-    Data Collection :after a3, 30d
-</div>
+![Project Timeline]({{ site.url }}{{ site.baseurl }}/assets/images/diarystudy_timeline.png)
 
 ## Process
 Since this study was exploratory in nature, the participants were not given specific scenarios, but rather asked 27 open-ended questions about their technology habits and preferences. The participants used a diary study app, Indeemo, to share videos and images of their technology use for four weeks. We divided the participants into three phases, so that each group started and ended at different times.
@@ -51,30 +31,18 @@ The diary study lasted for three months and gave me more than 1900 entries to ex
 
 For the qualitative analysis, I created a unique process for doing thematic coding and content analysis of the data, using a mix of manual and automated methods. I wanted to know the overall themes from the participant responses. I used some natural language processing techniques such as topic modeling and summarization algorithms on the participant video transcripts. This showed me some interesting insights about how the personas were similar and different, but these techniques were not very useful for this type of data.
 
-```mermaid
-flowchart LR
-A[Raw Data from Indeemo] --> B{Data Cleaning}
-
-B -->|Python, Regex, VSC| C[Organized Data]
-
-C --> D{Qualitative Analysis}
-
-D -->|Topic Modeling, Summarization| E[Initial Insights]
-D -->|Thematic Coding, Content Analysis, Excel| F[Refined Insights]
-
-E --> D
-F --> G{Key Themes and Patterns}
-
-```
+![Data Analysis Process]({{ site.url }}{{ site.baseurl }}/assets/images/diarystudy_flowchart.svg)
 
 Instead, I applied traditional qualitative methods of content analysis and thematic coding. I used tools like Excel to code the responses based on themes and categories that came from the data. I also taught the analysis process to two other people who helped me analyze the responses. I emphasized the difference between findings and takeaways: findings are descriptions of the important themes, unique observations, and behavioral/attitudinal patterns based on what we learned from participants’ responses, and takeaways are practical suggestions based on the findings that help our client improve their products based on what their customers or potential customers want.
-
-{% include gallery caption="Findings uncovered during qualitative analysis were used to support key recommendations." %}
 
 ## Insights
 Our client had very specific needs for the analysis: they wanted us to identify trends, but not to be too general in our summaries. They also wanted us to point out any unique findings and include as much context about the participants as possible. To do this, I trained our team to analyze the responses by participant persona instead of task. This allowed us to better meet the client's needs and provide more detailed summaries. We were able to identify trends and unique findings specific to each persona. I shared these user persona documents in one-on-one meetings with the client, telling the story of how each persona used technology in their lives.
 
+![Content Analysis]({{ site.url }}{{ site.baseurl }}/assets/images/diarystudy_1.png)
+
 After several rounds of analysis, I identified the main themes and patterns that emerged from the data. I worked with our client to understand their needs and the kinds of insights they were looking for. To provide an effective overview of the most interesting themes, I applied a technique called pattern mining. This allowed us to quickly identify the key trends and patterns, then organize them into categories. We used these categories to provide a comprehensive overview document to our client, including key findings, trends, and recommendations captured across all the personas within the diary study.
+
+![Key Recommendations]({{ site.url }}{{ site.baseurl }}/assets/images/diarystudy_2.png)
 
 ## Impact
 Our results delighted the client. They appreciated the persona analysis documents that helped them understand the participants better. They enjoyed working with me on making sense of the data. The insights I offered were relevant and valuable for the client's product strategy, which they used in some of their product meetings. My analysis process was faster, more efficient, and cheaper than conventional methods, and it enabled us to save a lot of time. The client was so impressed with the results that they asked for a follow-up study to be conducted in the near future.
