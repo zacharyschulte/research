@@ -1,7 +1,6 @@
 ---
 title: "Diary Study: Tech in Everyday Life"
 excerpt: "Deliver actionable recommendations based on how people use technology in their everyday lives."
-mermaid: true
 header:
   teaser: /assets/images/diary.png
 sidebar:
