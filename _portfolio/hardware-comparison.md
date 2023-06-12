@@ -5,8 +5,8 @@ header:
   teaser: /assets/images/hardware.png
 sidebar:
   - title: "Challenge"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    image: /assets/images/hardware.png
+    image_alt: "Hardware Comparison Test"
     text: "Establish the value of client's integrations by comparing user preference between enhanced and standard audio and video experiences."
   - title: "Role"
     text: "Research assistant and test moderation on a large team at End to End User Research."
