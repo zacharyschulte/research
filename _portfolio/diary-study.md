@@ -1,6 +1,7 @@
 ---
 title: "Diary Study: Tech in Everyday Life"
 excerpt: "Deliver actionable recommendations based on how people use technology in their everyday lives."
+mermaid: true
 header:
   teaser: /assets/images/diary.png
 sidebar:
@@ -25,7 +26,8 @@ gallery:
 
 ## Background
 A laptop manufacturer wanted our team to conduct a diary study that investigated people's use of technology in their daily lives. They wanted to understand the role of laptops in users' routines and discover opportunities to fulfill their needs and preferences. They had identified 6 user personas based on previous market research, and they asked us to recruit 10 participants for each persona. We had several months to collect data, analyze it, and present our findings. As lead research assistant, I ensured effective communication with participants, prepared data, and implemented a novel qualitative analysis process. I delivered our key recommendations directly to the client.
-```mermaid
+
+<div class="mermaid">
 gantt
     title Data Collection Timeline
     dateFormat  YYYY-MM-DD
@@ -38,7 +40,8 @@ gantt
     section Group 3
     Recruitment     :a3, 2023-01-11, 7d
     Data Collection :after a3, 30d
-```
+</div>
+
 ## Process
 Since this study was exploratory in nature, the participants were not given specific scenarios, but rather asked 27 open-ended questions about their technology habits and preferences. The participants used a diary study app, Indeemo, to share videos and images of their technology use for four weeks. We divided the participants into three phases, so that each group started and ended at different times.
 
