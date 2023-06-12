@@ -41,7 +41,7 @@ Our client had very specific needs for the analysis: they wanted us to identify 
 
 After several rounds of analysis, I identified the main themes and patterns that emerged from the data. I worked with our client to understand their needs and the kinds of insights they were looking for. To provide an effective overview of the most interesting themes, I applied a technique called pattern mining. This allowed us to quickly identify the key trends and patterns, then organize them into categories. We used these categories to provide a comprehensive overview document to our client, including key findings, trends, and recommendations captured across all the personas within the diary study.
 
-![Key Recommendations](/assets/images/diarystudy_2.png)
+![Key Recommendations](/assets/images/diarystudy_2.jpg)
 
 ## Impact
 Our results delighted the client. They appreciated the persona analysis documents that helped them understand the participants better. They enjoyed working with me on making sense of the data. The insights I offered were relevant and valuable for the client's product strategy, which they used in some of their product meetings. My analysis process was faster, more efficient, and cheaper than conventional methods, and it enabled us to save a lot of time. The client was so impressed with the results that they asked for a follow-up study to be conducted in the near future.
