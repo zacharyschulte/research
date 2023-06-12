@@ -5,8 +5,8 @@ header:
   teaser: /assets/images/inherent.png
 sidebar:
   - title: "Challenge"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    image: /assets/images/inherent.png
+    image_alt: "Inherent Value Test"
     text: "Increase conversions by aligning product strategies with the voice of the customer."
   - title: "Role"
     text: "User research coordinator under a usability lead at a B2B marketing SaaS company."
