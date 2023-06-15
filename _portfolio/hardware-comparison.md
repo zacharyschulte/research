@@ -19,7 +19,7 @@ sidebar:
 ## Background
 The entertainment industry is constantly innovating to offer the best quality of video and audio to their customers. Our client is a leader in this field, with advanced features designed to create a realistic and immersive experience for viewers and listeners. They hired our team to conduct a study to measure how people perceive and value these features compared to the standard options. They also wanted us to suggest how they can promote these features more effectively to potential customers and their laptop vendor partners.
 
-We had less than a month to recruit participants, set up the equipment, run the test, and deliver our findings. As a research assistant, my main role was creating the note-taking document used for data analysis, as well as moderating certain test sessions.
+We had a month to recruit participants, set up the equipment, run the test, and deliver our findings. As a research assistant, my main role was creating the note-taking document used for data analysis, as well as moderating certain test sessions.
 
 <figure>
     <a href="/research/assets/images/hardwarecomparison_timeline.png"><img src="/research/assets/images/hardwarecomparison_timeline.png"></a>
