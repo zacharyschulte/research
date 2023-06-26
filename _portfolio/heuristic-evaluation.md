@@ -37,8 +37,8 @@ One major hurdle was the difficulty in communicating with the client, which init
 I identified over 100 usability issues across the entire user journey – from onboarding all the way to plan purchasing. Insights uncovered issues related to information hierarchy, form design, navigation, and more. I developed practical solutions for each problem to enhance the user experience on both desktop and mobile platforms.
 
 <figure class="half">
-    <a href="/assets/images/energy_mockups2.png"><img src="/assets/images/energy_mockups2.png"></a>
-    <a href="/assets/images/energy_mockups.png"><img src="/assets/images/energy_mockups.png"></a>
+    <a href="/research/assets/images/energy_mockups2.png"><img src="/research/assets/images/energy_mockups2.png"></a>
+    <a href="/research/assets/images/energy_mockups.png"><img src="/research/assets/images/energy_mockups.png"></a>
     <figcaption>Wireframes to demonstrate solutions for critical issues.</figcaption>
 </figure>
 
