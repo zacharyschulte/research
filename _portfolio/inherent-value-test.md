@@ -40,8 +40,8 @@ In order to make the best use of our time, the usability lead and I moderated ou
 The insights we gained were invaluable. The usability lead and I told a compelling story to the entire company, highlighting how potential customers were often unclear about the value proposition of our product. We detailed the gaps in our product messaging, which left out features that our long-time users valued, such as the "category" feature for content organization. We also pointed out customer sentiment toward the pricing and subscription model, along with suggestions for improvement. Finally, we illuminated potential opportunities, like developing new pricing models with bundled features, that could create greater value for customers.
 
 <figure class="half">
-    <a href="/assets/images/inherent_quad.png"><img src="/assets/images/inherent_quad.png"></a>
-    <a href="/assets/images/inherent_fab.png"><img src="/assets/images/inherent_fab.png"></a>
+    <a href="/research/assets/images/inherent_quad.png"><img src="/research/assets/images/inherent_quad.png"></a>
+    <a href="/research/assets/images/inherent_fab.png"><img src="/research/assets/images/inherent_fab.png"></a>
     <figcaption>Visualizing findings with a usage-value matrix and a Feature Benefits table with A/B test recommendations.</figcaption>
 </figure>
 
